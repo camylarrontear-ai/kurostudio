@@ -1,0 +1,6 @@
+{
+  "name": "KURA STUDIO",
+  "description": "Architectural heavyweight streetwear and luxury 450GSM essentials with contemporary minimal discipline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
